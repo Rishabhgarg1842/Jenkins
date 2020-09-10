@@ -1,0 +1,7 @@
+D:\LTI GET 855\devops\Jenkins\SampleProject\bin\Debug\SampleProject.exe.config
+D:\LTI GET 855\devops\Jenkins\SampleProject\bin\Debug\SampleProject.exe
+D:\LTI GET 855\devops\Jenkins\SampleProject\bin\Debug\SampleProject.pdb
+D:\LTI GET 855\devops\Jenkins\SampleProject\obj\Debug\SampleProject.csprojAssemblyReference.cache
+D:\LTI GET 855\devops\Jenkins\SampleProject\obj\Debug\SampleProject.csproj.CoreCompileInputs.cache
+D:\LTI GET 855\devops\Jenkins\SampleProject\obj\Debug\SampleProject.exe
+D:\LTI GET 855\devops\Jenkins\SampleProject\obj\Debug\SampleProject.pdb
